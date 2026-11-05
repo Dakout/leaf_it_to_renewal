@@ -1,0 +1,17 @@
+__pycache__/
+**/__pycache__
+*.pdf
+*.svg
+*.png
+*.jpg
+*.code-workspace
+*.log
+*/*
+!perf/
+perf/*
+!perf/maint_perf/
+!perf/order_perf/
+perf/maint_perf/*
+perf/order_perf/*
+!perf/maint_perf/best_perf
+!perf/order_perf/best_perf
